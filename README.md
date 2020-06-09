@@ -1,1 +1,194 @@
-# ronaldobalsimelli.github.io
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="" />
+        <meta name="author" content="" />
+        <title>Apresentação - Ronaldo Balsimelli</title>
+        <link rel="icon" type="image/x-icon" href="assets/img/favicon.ico" />
+        <!-- Font Awesome icons (free version)-->
+        <script src="https://use.fontawesome.com/releases/v5.13.0/js/all.js" crossorigin="anonymous"></script>
+        <!-- Google fonts-->
+        <link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:500,700" rel="stylesheet" type="text/css" />
+        <link href="https://fonts.googleapis.com/css?family=Muli:400,400i,800,800i" rel="stylesheet" type="text/css" />
+        <!-- Core theme CSS (includes Bootstrap)-->
+        <link href="css/styles.css" rel="stylesheet" />
+    </head>
+    <body id="page-top">
+        <!-- Navigation-->
+        <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
+            <a class="navbar-brand js-scroll-trigger" href="#page-top"
+                ><span class="d-block d-lg-none">Ronaldo Balsimelli</span><span class="d-none d-lg-block">
+                    <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="assets/img/profile.jpg" 
+                    alt="" /></span></a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav">
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#about">Sobre Mim</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#experience">Experiência</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#education">Formação</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#skills">Skills</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#interests">Interesses</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#languages">Idiomas</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#awards">Certificados</a></li>
+                </ul>
+            </div>
+        </nav>
+        <!-- Page Content-->
+        <div class="container-fluid p-0">
+          
+            <!-- About-->
+            <section class="resume-section" id="about">
+                <div class="resume-section-content">
+                    <h1 class="mb-0">Ronaldo <span class="text-primary">Balsimelli</span></h1>
+                    <div class="subheading mb-5">Rua Martins Fontes, Centro, São Paulo · +55 (11) 95195-1724 · 
+                        <a href="mailto:ronaldobalsimelli@hotmail.com">ronaldobalsimelli@hotmail.com</a></div>
+                    <p class="lead mb-5">Tenho expêriencia de 10 anos em Segurança Eletrônica e agora estou me qualificando para ser Desenvolvedor.</p>
+                    <div class="social-icons">
+                        <a class="social-icon" href="https://www.linkedin.com/in/ronaldo-balsimelli-7742aa22/"; target="_blank"><i class="fab fa-linkedin-in"></i></a><a class="social-icon" href="https://github.com/RonaldoBalsimelli" ; target="_blank"><i class="fab fa-github"></i></a><a class="social-icon" href="https://www.instagram.com/robalsimelli/"; target="_blank"><i class="fab fa-instagram"></i></a><a class="social-icon" href="https://www.facebook.com/ronaldo.balsimelli/"; target="_blank"><i class="fab fa-facebook-f"></i></a>
+                    </div>
+                </div>
+            </section>
+            <hr class="m-0" />
+           
+            <!-- Experience-->
+            <section class="resume-section" id="experience">
+                <div class="resume-section-content">
+                    <h2 class="mb-5">Experiência</h2>
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">Técnico Eletrônico</h3>
+                            <div class="subheading mb-3">Lifree - Segurança eletrônica</div>
+                            <p>Empresa voltada ao segmento de segurança eletrônica. Atuo como Técnico eletrônico. </p>
+                            <p>Principais atividades em equipamentos: Manutenção  e instalação de catracas, cancelas, câmeras, alarme, incêndio, leitoras biométricas ou não, e toda rotina de segurança eletônica</p>
+                            <p>Principais atividades em sistemas: Configuração de Servidores, Instalação e manutenção de banco de Dados, configuração de rede em computadores, Dvr's e equipamentos inteligentes, manutenção e instalação de softwares de monitoramento e controle de acesso.</p>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">Março 2020 - Atual</span></div>
+                    </div>
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
+                           
+                            <h3 class="mb-0">Técnico de CFTV</h3>
+                            <div class="subheading mb-3">Nova Brasil Serviços</div>
+                            <p>Empresa voltada ao segmento de segurança eletrônica e facilities. Atuava como técnico eletrônico, apesar do registro.</p>
+                            <p>Principais atividades em equipamentos: Manutenção  e instalação de catracas, cancelas, câmeras, Interfone, Laço Indutivo, cerca elétrica, alarme, incêndio, leitoras biométricas ou não, módulo guarita e toda rotina de segurança eletônica</p>
+                            <p>Principais atividades em sistemas: Configuração de Servidores, Configuração de Servidores para Portaria Virtual, Instalação e manutenção de banco de Dados, configuração de rede em computadores, Dvr's e equipamentos inteligentes, manutenção e instalação de softwares de monitoramento e controle de acesso.</p>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">Novembro 2019 - Março 2020</span></div>
+                    </div>
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
+                          
+                            <h3 class="mb-0">Técnico Eletrônico</h3>
+                            <div class="subheading mb-3">Gps - Tec (Grupo Gps)</div>
+                            <p>Maior empresa que ja trabalhei, mais de 500 mil funcionários, tive 3 passagens por esta empresa, aprendi muito.</p>
+                            <p>Difícil destacar um ramo paa Gps, pois a mesma atua em diversos segmentos, a minha área era a de segurança eletrônica.</p>
+                            Basicamente fazia as mesmas coisas das empresas citadas acima, porém aqui atendi clientes gigantescos, tais como: Ambev, Heineken, Globo, SBT, Lavoisier, dentre outros.
+                            Um em especial foi a T-Systems, foi pelo tempo que passei por la que descobri o que eu queria, <b>programar</b>. 
+                            
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">Dezembro 2016 - Outubro 2018</span></div>
+                    </div>
+                    <div class="d-flex flex-column flex-md-row justify-content-between">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">Nexcode Automação</h3>
+                            <div class="subheading mb-3">Auxiliar Técnico</div>
+                            <p>A Nexcode é uma empresa de Segurança eletrônica que desenvolve e fabrica o seu próprio hardwre e software.</p>
+                            <p>Atuava na manutenção de catracas e cancelas em sua maioria, a Nexcode tem um diferencial, ela desenvolve sua própria placa e seu próprio software. Todas as empresas citadas acima (nas minhas experriências) trabalham com placas e software da Nexcode em seus clientes.</p>
+                            <p>Além disso realizava instalação e manutenção de câmeras.</p>
+                            
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">Novembro 2015 - Dezembro 2016</span></div>
+                    </div>
+                </div>
+            </section>
+            <hr class="m-0" />
+           
+            <!-- Education-->
+            <section class="resume-section" id="education">
+                <div class="resume-section-content">
+                    <h2 class="mb-5">Formação</h2>
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">Arbyte</h3>
+                            <div class="subheading mb-3">esenvolvedor Front End</div>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">Junho 2020 - Dezembro 2020</span></div>
+                    </div>
+                    <div class="d-flex flex-column flex-md-row justify-content-between">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">Universidade Uniseb</h3>
+                            <div class="subheading mb-3">Gestão de T.I</div>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">Dezembro 2013 - Maio 2015</span></div>
+                    </div>
+                </div>
+            </section>
+            <hr class="m-0" />
+           
+            <!-- Skills-->
+            <section class="resume-section" id="skills">
+                <div class="resume-section-content">
+                    <h2 class="mb-5">Skills</h2>
+                    <div class="subheading mb-3">Linguagens de Programação</div>
+                    <ul class="list-inline dev-icons">
+                        <li class="list-inline-item"><i class="fab fa-html5"></i></li>
+                        <li class="list-inline-item"><i class="fab fa-css3-alt"></i></li>
+                        <li class="list-inline-item"><i class="fab fa-js-square"></i></li>
+                 
+                    </ul>
+                    
+                </section>
+            <hr class="m-0" />
+           
+            <!-- Interests-->
+            <section class="resume-section" id="interests">
+                <div class="resume-section-content">
+                    <h2 class="mb-5">Interesses</h2>
+                    <p>Além de técnico eletrônico, tenho um sonho de ser DEV. e trabalhar em outro País. Meus pais moram em Portugal e eu quero ser um DEV na Europa.</p>
+                    <p class="mb-0">Atualmente moro com minha atual mulher. Tenho uma filha menor de idade e gosto de cozinhar,  jogar video game, sair com os amigos, assistir filmes e séries, entre outras coisas.</p>
+                </div>
+            </section>
+            <hr class="m-0" />
+           
+           <!-- Languages-->
+           <section class="resume-section" id="languages">
+            <div class="resume-section-content">
+                <h2 class="mb-5">Idiomas</h2>
+                <ul class="fa-ul mb-4">
+                    <li>
+                        <span class="fa-li"><i class="fas fa-check"></i></span>Português: Lingua Nativa 
+                    </li>
+                    <li>
+                        <span class="fa-li"><i class="fas fa-check"></i></span>Italiano di base - Imparare l'italiano
+                    </li>
+                    <li>
+                        <span class="fa-li"><i class="fas fa-check"></i></span>Basic English - read-only and technical pronunciation
+                    </li>
+                </ul>
+            </div>
+        </section>
+           
+            <!-- Awards-->
+            <section class="resume-section" id="awards">
+                <div class="resume-section-content">
+                    <h2 class="mb-5">Certificados</h2>
+                    <ul class="fa-ul mb-0">
+                        <li>
+                            <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>Uniseb - Certificado de Conclusão
+                        </li>
+                        
+                    </ul>
+                </div>
+            </section>
+        </div>
+        <!-- Bootstrap core JS-->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.bundle.min.js"></script>
+        <!-- Third party plugin JS-->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js"></script>
+        <!-- Core theme JS-->
+        <script src="js/scripts.js"></script>
+    </body>
+</html>
